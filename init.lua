@@ -1,8 +1,8 @@
 
-minetest.register_node("sit_and_think:thinking_chair", {
-    description = "Thinking Chair",
+minetest.register_node("block:think", {
+    description = "Think Block",
     drawtype = "nodebox",
-    tiles = {"sit_and_think_chair.png"},
+    tiles = {"think_block.png"},
     paramtype2 = "facedir",
     groups = {choppy = 2, oddly_breakable_by_hand = 1},
     node_box = {
