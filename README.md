@@ -6,6 +6,18 @@ Think Block is a lightweight and fun MineTest mod where players interact with a 
 - Right-clicking the block generates a random MineTest-related question.
 - Encourages players to reflect and engage with MineTest concepts in a creative way.
 
+## Get a Think Block
+### Get "give" privilege
+#### In a server world
+Contact your server admin or maintainer to grant you the "give" privilege or give you the block directly.
+#### In single player world on self hosted server
+1. Open the command window by pressing "/".
+2. Type "/grantme give" and press enter/return
+#### Get the Think Block
+1. If not already open. Open the command window by pressing "/".
+2. Type "giveme think_block:block" and press enter/return.
+A Think Block should appear in your inventory.
+
 ## How to Use
 1. Place a Thinking Block in your world.
 2. Right-click the block to receive a random question.
